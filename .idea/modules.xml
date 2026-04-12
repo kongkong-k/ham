@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hami_console/hami_console.iml" filepath="$PROJECT_DIR$/hami_console/hami_console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hami_protal/hami_protal.iml" filepath="$PROJECT_DIR$/hami_protal/hami_protal.iml" />
+    </modules>
+  </component>
+</project>
